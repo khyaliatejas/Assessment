@@ -32,7 +32,7 @@ Payment Status Analysis
 - Evaluated counts and trends in payment success and failure.
 - Compared payment methods based on success rates.
 
-### Customer Retention Visualization
+Customer Retention Visualization
 - Cohort analysis groups customers by first purchase month.
 - Tracks how many return in subsequent months.
 - Retention is visualized as a heatmap for easy comparison.
